@@ -1,5 +1,7 @@
 # buff_bunny_entertainment
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/cIVipN3P0GpZsyWVDybCmD/Buff-Bunny-Entertainment?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+
 **Introduction**
 - An AI-driven academic “manager” that helps college students track degree requirements, course offerings, and schedules to hit specific goals like internships, scholarship, or skill building through the lens of a Pop Stardom. By analyzing onboarding data and chat histories, the program offers personalized suggestions to users and an interactive dashboard, using a pop-culture inspired concept to motivate students to reach for the stars.
 - Target Group: UCF Undergraduate Students between the age of 18 and 25. Their personalities are ambitious, and goal driven. Undergraduate students want a way to simulate their decisions that affect their, schedule, personal time, and goals without having to spend hours manually doing it themselves.
