@@ -6,9 +6,6 @@ import json
 import httpx, pathlib, io
 
 
-DS_req = "https://www.ucf.edu/catalog/undergraduate/#/programs/rkpNJ-_sd?bc=true&bcCurrent=Data%20Science%20(B.S.)&bcItemType=programs"
-filepath = pathlib.Path('audit_pdf/NID_DSBS.pdf')
-doc_data = filepath.read_bytes()
 
 class PlanSteps(BaseModel):
     step_name: str
